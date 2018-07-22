@@ -1,15 +1,13 @@
-## The Full JavaScript & ES6 Tutorial - (including ES7 & React)
+## BandHub
  
-#### Please use this resource for the following reasons!
+### Welcome to BandHub!
+BandHub is an app for music pruducers. Providing remote version control, BandHub helps producers to better cooperate with colleagues and work anywhere around the world!
 
-Find guides to each coding lecture.
+Use BandHub to store, sync and share your Abletone and Cubase projects now.
 
-Discover answers to coding challenges and quizzes.
+### ----------------------------------------------------------------
+This app was created following Udemy's great react and ES6-In-Depth course, Modern-React-with-Redux course and materials from IDC-Herzlya's web app development course. 
+Find the original courses here:
+https://www.udemy.com/es6-in-depth/
+https://www.udemy.com/react-redux/
 
-Build a starter project for es6 in webpack.
-
-Enjoy the course, and keep coding!
-
-***
-
-Find the original course here: https://www.udemy.com/es6-in-depth/
